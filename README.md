@@ -8,7 +8,7 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spri
 - Spreadsheets
 - Database (SQL)
 - R Programimn
-- Data Tranformation
+- Data Transformation
 - Data Visualization
 - Essential Statistics
 - Essential Machine learning for Data Analyst
